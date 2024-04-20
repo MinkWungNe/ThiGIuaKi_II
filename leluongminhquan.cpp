@@ -65,5 +65,6 @@ int main()
     cout << endl;
     SapxepDS(danhsachMSSV, soluong);
     IndanhsachMoi();
+    cout << endl;
     Timdiachi();
 }
